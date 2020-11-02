@@ -1,25 +1,28 @@
 ---
-layout: about
-title: about
+layout: contacts
+title: contacts
 permalink: /
-description: <a href="#">About SEC-EF</a>
+description: <a href="#">SEC-EF Contacts</a>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-<p>The <b>SEC-Inreach</b> team is interested in fostering opportunities for professional development and building cohesion within the early-career particle physics community. We hope to reach out to and engage with early-career physicists during the <a href="https://snowmass21.org/">Snowmass 2021</a> process by providing opportunities for professional development and networking.</p>
+<p>Current frontier-wide early-career contacts: Grace Cummings (Virginia), Matt LeBlanc (Arizona)</p>
 
-<p><h3>Active membership:</h3>
+<p><h3>Current topical group contacts:</h3>
  <ul>
-	<li>Christian Herwig (<a href="https://cms.fnal.gov/">FNAL</a>, *)</li>
-        <li>Manolis Kargiantoulakis (<a href="https://muon.fnal.gov/">FNAL</a>)</li>
-	<li><a href="https://cern.ch/leblanc">Matt LeBlanc</a> (<a href="http://atlas.physics.arizona.edu/">Arizona</a>, *)</li>
-	<li>Tiffany Lewis (<a href="https://www.nasa.gov/goddard">NASA Goddard</a>)</li>
-	<li>Cindy Lin (<a href="https://www.snolab.ca/science/experiments/snoplus">SNOLAB</a>)</li>
- 	<li>Jennifer Roloff (<a href="https://www.bnl.gov/ATLAS/">BNL</a>)</li>
- 	<li>Jacob Zettlemoyer (<a href="https://neutrinophysics.fnal.gov/neutrino-division/">FNAL</a>)</li>
+  	<li>EF01 : Higgs properties and couplings</li>
+	<li>EF02 : Higgs portal to BSM</li>
+	<li>EF03 : Heavy flavour and top physics</li>
+	<li>EF04 : Precision EW physics</li>
+	<li>EF05 : Precision QCD physics</li>
+	<li>EF06 : Hadronic structure and forward QCD</li>
+	<li>EF07 : Heavy ions</li>
+	<li>EF08 : Model-specific BSM</li>
+	<li>EF09 : Generic BSM</li>
+	<li>EF10 : Dark Matter at colliders</li>
  </ul>
  <i>(*) current contacts.</i>
 </p>
