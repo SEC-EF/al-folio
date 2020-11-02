@@ -5,12 +5,12 @@
 title: SEC-Inreach # the website title (if blank, full name will be used instead)
 first_name: Snowmass Early-Career
 middle_name: 
-last_name: Inreach
+last_name: Energy Frontier
 email: SNOWMASS-EC-INREACH@LISTSERV.FNAL.GOV
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Homepage for Snowmass Early-Career Inreach activities.
-footer_text: >  
-url:  # the base hostname & protocol for your site
+  Homepage for Snowmass Early-Career activities in the Energy Frontier.
+footer_text: >
+Url base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
@@ -73,14 +73,11 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
-  colloquia:
-    output: true
-    permalink: /colloquia/:path/
 
 news_limit: 3
 
