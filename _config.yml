@@ -6,7 +6,7 @@ title: SEC-Inreach # the website title (if blank, full name will be used instead
 first_name: Snowmass Early-Career
 middle_name: 
 last_name: Energy Frontier
-email: SNOWMASS-EC-INREACH@LISTSERV.FNAL.GOV
+email: SNOWMASS-EARLY-CAREER-EF@LISTSERV.FNAL.GOV
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Homepage for Snowmass Early-Career activities in the Energy Frontier.
 footer_text: >
