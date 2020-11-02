@@ -10,4 +10,3 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 <p>The <b>SEC-EF</b> group exists to inform early-career members of the particle physics community about research activities within the Snowmass [Energy Frontier](https://snowmass21.org/energy/start), which aims to determine the most promising means to explore the TeV-scale and beyond.</p>
-
