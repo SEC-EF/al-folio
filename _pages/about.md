@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title:  about
 permalink: /
 description: <a href="#">About SEC-EF</a>
 

@@ -1,7 +1,7 @@
 ---
 layout: contacts
 title: contacts
-permalink: /
+permalink: /contacts/
 description: <a href="#">SEC-EF Contacts</a>
 
 news: false  # includes a list of news items
