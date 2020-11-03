@@ -1,7 +1,7 @@
 ---
 layout: post
 title: digest
-date: 2020-11-03 16:00:00-0400
+date: 2020-11-03 15:00:00-0400
 inline: false
 ---
 
