@@ -76,9 +76,6 @@ collections:
     permalink: /news/:path/
     defaults:
       layout: post
-#  projects:
-#    output: false
-#    permalink: /projects/:path/
 
 news_limit: 3
 
