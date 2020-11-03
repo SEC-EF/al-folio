@@ -1,5 +1,5 @@
 ---
-layout: contacts
+layout: about
 title: contacts
 permalink: /contacts/
 description: <a href="#">SEC-EF Contacts</a>
