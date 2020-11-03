@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SEC-EF Digest
+title: SEC EF digest
 date: 2020-11-03 16:00:00-0400
 inline: false
 ---
@@ -24,6 +24,7 @@ In order to request Monte Carlo samples for Snowmass studies, please use [this  
 ###### EF02 : Higgs portal to BSM
   * Next meeting 12 November, continuing a review of LOI submissions (details will be announced soon)
   * Joint EF01-EF02: There is an ongoing series of meetings related to di-Higgs production, and an effort to define a set of “benchmarks” for use in the community. Stay tuned for the next meeting times.
+
 
 ###### EF03 : Heavy flavour and top physics
   * Next meeting on 5 November, with discussion on top physics at LHeC and FCCeh: https://indico.fnal.gov/event/46132/
@@ -57,7 +58,6 @@ In order to request Monte Carlo samples for Snowmass studies, please use [this  
   * The last EF09 meeting was focused on Long-Lived Particles and searches at different detectors https://indico.fnal.gov/event/46184/
     * We discussed LLPs with CMS at the HL-LHC, disappearing tracks at muon colliders, LLP searches with FCC-ee, and had a discussion on benchmark models
   * The next EF09 meeting will be on 13th Nov and will cover new fermions and other exotica
-
 
 
 ###### EF10 : Dark Matter at colliders
