@@ -69,14 +69,12 @@ disqus_shortname: # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
-collections_dir: collections
-
 collections:
   news:
-    defaults:
-      layout: post
     output: true
     permalink: /news/:path/
+    defaults:
+      layout: post
   projects:
     output: false
     permalink: /projects/:path/
