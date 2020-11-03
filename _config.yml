@@ -69,7 +69,7 @@ disqus_shortname: # put your disqus shortname
 # Collections
 # -----------------------------------------------------------------------------
 
-collections_dir: .
+collections_dir: collections
 
 collections:
   news:
