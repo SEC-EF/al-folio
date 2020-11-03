@@ -13,6 +13,7 @@ footer_text: >
 url:  # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
+future: true # publish posts with dates in the future
 
 # -----------------------------------------------------------------------------
 # Layout
